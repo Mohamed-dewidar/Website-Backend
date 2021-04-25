@@ -1,0 +1,2 @@
+const url = "mongodb://monz1996:monimoni123@cluster0-shard-00-00.v3v8r.mongodb.net:27017,cluster0-shard-00-01.v3v8r.mongodb.net:27017,cluster0-shard-00-02.v3v8r.mongodb.net:27017/MS1_MODELS?ssl=true&replicaSet=atlas-6evmof-shard-0&authSource=admin&retryWrites=true&w=majority"
+module.exports = url ;
